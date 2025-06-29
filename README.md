@@ -1,4 +1,3 @@
-````markdown name=README.md
 # Hi, I'm Rutuja 👋
 
 ## 🚀 Business Analyst | Data Storyteller | AI/ML Enthusiast
@@ -30,4 +29,3 @@ Business Analysis | Power BI | Excel | Agile | UAT | JIRA/Confluence | Azure Dev
 
 ### 🌐 Connect with me
 [LinkedIn](https://www.linkedin.com/) <!-- Replace with your actual LinkedIn profile URL -->
-````
