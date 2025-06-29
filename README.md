@@ -28,4 +28,4 @@ Business Analysis | Power BI | Excel | Agile | UAT | JIRA/Confluence | Azure Dev
 ---
 
 ### 🌐 Connect with me
-[LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/rutuja-nale)) <!-- Replace with your actual LinkedIn profile URL -->
+[LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/rutuja-nale]) <!-- Replace with your actual LinkedIn profile URL -->
